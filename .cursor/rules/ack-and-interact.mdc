@@ -1,0 +1,14 @@
+---
+description: Confirm each user message before acting and say immediately when blocked.
+alwaysApply: true
+---
+
+# Ack and interact
+
+Reply in the user's language. The first sentence states what you understood from their latest message.
+
+Before a long run of tools, send that acknowledgement. Do not disappear into silent lookups.
+
+If you cannot do the thing now, say so in the same reply: what is missing and who has to supply it. One failed check is enough. Do not repeat the same disk, desktop, or permission search.
+
+Between long steps, one line on what just finished. Do not change nvim config. Do not commit secrets.
